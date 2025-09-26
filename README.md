@@ -1,5 +1,2 @@
-# Firebase Studio
-
-This is a NextJS starter in Firebase Studio.
-
-To get started, take a look at src/app/page.tsx.
+Гемини и авторизация через гугл не работают 
+а так дизайн норм красивый,позже исправлю
